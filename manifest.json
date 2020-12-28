@@ -1,6 +1,6 @@
 {
     "name": "Amazon Wishlist Total Calculator",
-    "version": "0.1",
+    "version": "0.1.1",
     "description": "Useful tool that allows the user to preview the total cost of a certain wishlist!",
     "background": {
         "scripts": ["background.js"],
